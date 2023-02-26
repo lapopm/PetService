@@ -1,2 +1,2 @@
-# PeteService
+# PetService
 Vue3 project
