@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pet-service
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# PetService
+Vue3 project
+>>>>>>> 6cb7730c8faba2ebc49c74a87b1076faeb39a242
